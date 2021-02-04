@@ -4,7 +4,7 @@
 MIT License
 
 2º Indica si el creador se responsabiliza del software compartido.
-
+No se resposabiliza el autor o titulares de cualquier reclamo, daños u otros.
 Pregunta:
 
 6º Suponga que usamos el software SUPER-U con licencia Copy-left, nos hacemos con el código fuente y le añadimos una funcionalidad nueva. Lo vendemos a un cliente, pero no le permitimos acceder a nuestro código fuente nuevo. ¿Es legal?
