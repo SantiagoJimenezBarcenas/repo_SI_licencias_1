@@ -2,6 +2,7 @@
 
 1º La licencia que he seleccionado a sido esta ya que son las caracteristicas que se han estipulado en la practica:
 MIT License
+
 2º Indica si el creador se responsabiliza del software compartido.
 
 Pregunta:
